@@ -41,10 +41,6 @@ mp3 다운로더 라이브러리입니다.
 **KSCA** (기획 중)
 전국 단위 청소년 컴퓨터 사이언스 학회를 위한 웹 서비스입니다. 영구 식별자, APA·BibTeX 인용 형식, 버전 관리를 갖춘 Zenodo 형태의 논문 아카이브와 커뮤니티 게시판으로 구성됩니다.
 
-## Open Source
-
-[oven-sh/bun](https://github.com/oven-sh/bun)에 기여하려고 준비하고 있습니다. 첫 작업은 AggregateError 출력 개선(#21528)입니다.
-
 ## Stack
 
 `x86-64 ASM` `C` `Rust` `TypeScript` `Next.js` `Supabase` `Arduino` `KiCad` `QEMU` `Docker` `Oracle Cloud`
