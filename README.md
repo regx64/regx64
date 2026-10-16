@@ -34,6 +34,7 @@ pipelined tiling for matrices larger than the grid.
 - **[gijiguk](https://github.com/regx64/gijiguk)** — Past-exam practice for Korean language study.
 - **[boj-cli](https://github.com/regx64/boj-cli)** — Baekjoon Online Judge from the terminal. Rust.
 - **[KSCA](https://github.com/regx64/KSCA)** — Korean Students Computer-Science Association. A national archive for student papers with persistent identifiers and versioning.
+- **[math](https://github.com/regx64/math)** — My math study notes and attempts at open problems (several Erdős problems), in Markdown and LaTeX with some Lean 4 checks.
 
 ### Awards
 
