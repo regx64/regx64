@@ -14,7 +14,7 @@ character. Dubeolsik breaks that assumption: two jamo share a physical key, and
 initial, medial, and final consonants compose into a single syllable. I handle the
 acoustic front end — log-mel input, CNN classification over 38 classes, special-key
 handling, top-N jamo probability output.
-→ [KDAA](https://github.com/regx64/KDAA) · [classism](https://github.com/regx64/classism)
+→ [KDAA](https://github.com/regx64/KDAA) · [classism](https://github.com/regx64/classism) · [sound-autodaq](https://github.com/regx64/sound-autodaq) (automated keystroke recording)
 
 **Von Neumann Bottleneck and Systolic Array Architecture: An Empirical Efficiency
 Comparison** — Zenodo, 2026
@@ -32,6 +32,7 @@ pipelined tiling for matrices larger than the grid.
 - **[chespedia](https://github.com/regx64/chespedia)** — Chess knowledge base. MDX content served by Next.js with a Rust backend.
 - **[liner-notes](https://github.com/regx64/liner-notes)** — A community for lyric excerpts and their readings. Next.js + Supabase, full-text search over lyrics.
 - **[gijiguk](https://github.com/regx64/gijiguk)** — Past-exam practice for Korean language study.
+- **[acc](https://github.com/regx64/acc)** — Korean public online judge with BOJ-style judging and solved.ac-style levels. Rust (axum) + SvelteKit, go-judge sandbox.
 - **[boj-cli](https://github.com/regx64/boj-cli)** — Baekjoon Online Judge from the terminal. Rust.
 - **[KSCA](https://github.com/regx64/KSCA)** — Korean Students Computer-Science Association. A national archive for student papers with persistent identifiers and versioning.
 - **[math](https://github.com/regx64/math)** — My math study notes and attempts at open problems (several Erdős problems), in Markdown and LaTeX with some Lean 4 checks.
