@@ -14,7 +14,7 @@ character. Dubeolsik breaks that assumption: two jamo share a physical key, and
 initial, medial, and final consonants compose into a single syllable. I handle the
 acoustic front end — log-mel input, CNN classification over 38 classes, special-key
 handling, top-N jamo probability output.
-→ [KDAA](https://github.com/regx64/KDAA) · [classism](https://github.com/regx64/classism) · [sound-autodaq](https://github.com/regx64/sound-autodaq) (automated keystroke recording)
+→ [KDAA](https://github.com/aworse/KDAA) · [classism](https://github.com/aworse/classism) · [sound-autodaq](https://github.com/aworse/sound-autodaq) (automated keystroke recording)
 
 **Von Neumann Bottleneck and Systolic Array Architecture: An Empirical Efficiency
 Comparison** — Zenodo, 2026
@@ -22,18 +22,15 @@ A 2×2 systolic array built from Arduino Nano boards, comparing sequential von
 Neumann execution against output-stationary and weight-stationary dataflows on
 matrix multiplication. Measured cycle counts against the analytical model, with
 pipelined tiling for matrices larger than the grid.
-→ [10.5281/zenodo.22038219](https://doi.org/10.5281/zenodo.22038219) · [Arduino-repo](https://github.com/regx64/Arduino-repo)
+→ [10.5281/zenodo.22038219](https://doi.org/10.5281/zenodo.22038219) · [Arduino-repo](https://github.com/Gradica/Arduino-repo)
 
 ### Projects
 
-- **[Sqimp](https://github.com/regx64/Sqimp)** — QEMU GUI wrapper. Tauri + Next.js + Rust.
+- **[Thrubase](https://github.com/regx64/Thrubase)** — Helps people understand codebases, including AI-written ones. Local web UI + VS Code extension, Python first.
 - **[Cotton](https://github.com/regx64)** — A programming language and its Rust implementation. Spec v0.2, lexer working.
-- **[percentage](https://github.com/regx64/percentage)** — Open Korean wiki with its own markup language, PerMark.
 - **[chespedia](https://github.com/regx64/chespedia)** — Chess knowledge base. MDX content served by Next.js with a Rust backend.
 - **[liner-notes](https://github.com/regx64/liner-notes)** — A community for lyric excerpts and their readings. Next.js + Supabase, full-text search over lyrics.
-- **[gijiguk](https://github.com/regx64/gijiguk)** — Past-exam practice for Korean language study.
 - **[acc](https://github.com/regx64/acc)** — Korean public online judge with BOJ-style judging and solved.ac-style levels. Rust (axum) + SvelteKit, go-judge sandbox.
-- **[boj-cli](https://github.com/regx64/boj-cli)** — Baekjoon Online Judge from the terminal. Rust.
 - **[KSCA](https://github.com/regx64/KSCA)** — Korean Students Computer-Science Association. A national archive for student papers with persistent identifiers and versioning.
 - **[math](https://github.com/regx64/math)** — My math study notes and attempts at open problems (several Erdős problems), in Markdown and LaTeX with some Lean 4 checks.
 
