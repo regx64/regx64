@@ -22,17 +22,20 @@ A 2×2 systolic array built from Arduino Nano boards, comparing sequential von
 Neumann execution against output-stationary and weight-stationary dataflows on
 matrix multiplication. Measured cycle counts against the analytical model, with
 pipelined tiling for matrices larger than the grid.
-→ [10.5281/zenodo.22038219](https://doi.org/10.5281/zenodo.22038219) · [Arduino-repo](https://github.com/Gradica/Arduino-repo)
+→ [10.5281/zenodo.22038219](https://doi.org/10.5281/zenodo.22038219) · [systolic-vs-von](https://github.com/regx64/systolic-vs-von)
 
 ### Projects
 
 - **[Thrubase](https://github.com/regx64/Thrubase)** — Helps people understand codebases, including AI-written ones. Local web UI + VS Code extension, Python first.
+- **[neural](https://github.com/regx64/neural)** — Neural network simulator in the browser, with shareable links. TypeScript.
 - **[Cotton](https://github.com/regx64)** — A programming language and its Rust implementation. Spec v0.2, lexer working.
 - **[chespedia](https://github.com/regx64/chespedia)** — Chess knowledge base. MDX content served by Next.js with a Rust backend.
+- **[OpenChess](https://github.com/regx64/OpenChess)** — Find your chess opening. MDX opening guides and courses, with Stockfish.js.
 - **[liner-notes](https://github.com/regx64/liner-notes)** — A community for lyric excerpts and their readings. Next.js + Supabase, full-text search over lyrics.
 - **[acc](https://github.com/regx64/acc)** — Korean public online judge with BOJ-style judging and solved.ac-style levels. Rust (axum) + SvelteKit, go-judge sandbox.
 - **[KSCA](https://github.com/regx64/KSCA)** — Korean Students Computer-Science Association. A national archive for student papers with persistent identifiers and versioning.
 - **[math](https://github.com/regx64/math)** — My math study notes and attempts at open problems (several Erdős problems), in Markdown and LaTeX with some Lean 4 checks.
+- **[paper](https://github.com/regx64/paper)** — Notes on 35 AI papers for beginners, with a reading guide and glossary.
 
 ### Awards
 
