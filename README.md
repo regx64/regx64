@@ -36,6 +36,9 @@ pipelined tiling for matrices larger than the grid.
 - **[KSCA](https://github.com/regx64/KSCA)** — Korean Students Computer-Science Association. A national archive for student papers with persistent identifiers and versioning.
 - **[math](https://github.com/regx64/math)** — My math study notes and attempts at open problems (several Erdős problems), in Markdown and LaTeX with some Lean 4 checks.
 - **[paper](https://github.com/regx64/paper)** — Notes on 35 AI papers for beginners, with a reading guide and glossary.
+- **Curricula** *(private)* — Interactive curriculum site for math and assembly. Fully static, with in-page grading and widgets.
+- **BiCSL web** *(private)* — Website for BiCSL (Bitbang Computer Science Lab).
+- **Sqimp** *(private)* — QEMU GUI wrapper. Rust + Tauri.
 
 ### Awards
 
