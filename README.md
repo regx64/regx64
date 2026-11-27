@@ -26,6 +26,7 @@ pipelined tiling for matrices larger than the grid.
 
 ### Projects
 
+- **[Synapse](https://github.com/regx64/synapse)** — IDE where several AI agents work in one workspace without breaking each other's work. Code - OSS fork, a worktree per agent, symbol-level conflict warnings before merge.
 - **[Thrubase](https://github.com/regx64/Thrubase)** — Helps people understand codebases, including AI-written ones. Local web UI + VS Code extension, Python first.
 - **[neural](https://github.com/regx64/neural)** — Neural network simulator in the browser, with shareable links. TypeScript.
 - **[Cotton](https://github.com/regx64)** — A programming language and its Rust implementation. Spec v0.2, lexer working.
